@@ -1,2 +1,2 @@
 # hello-world
-This is my first a repository. Creating this is to learn how to use github.
+This is a branch from master, and the name is readme-edits. 2016/05/19
